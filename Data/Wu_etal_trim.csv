@@ -1,0 +1,314 @@
+﻿Depth,Formation,SampleID,d13C,d18O,Depth_Negative,age,biozone
+0.1,Persnäs,TK 100,0.49,-6.17,-0.1,457.9237748,pygodus anserinus
+0.5,Persnäs,TK 99,0.78,-6.05,-0.5,458.0461589,pygodus anserinus
+0.75,Persnäs,AK 98b,0.81,-6.23,-0.75,458.122649,pygodus anserinus
+1,Persnäs,TK 98,0.75,-6.11,-1,458.1991391,pygodus anserinus
+1.25,Persnäs,AK 97b,0.8,-6.6,-1.25,458.2756291,pygodus anserinus
+1.5,Persnäs,TK 97,0.91,-5.85,-1.5,458.3521192,pygodus anserinus
+1.75,Persnäs,AK 96b,0.92,-6.04,-1.75,458.4286093,pygodus anserinus
+2,Persnäs,TK 96,0.75,-6.1,-2,458.5050993,pygodus anserinus
+2.25,Persnäs,AK 95b,0.84,-6.18,-2.25,458.5815894,pygodus anserinus
+2.5,Persnäs,TK 95,0.91,-7.52,-2.5,458.6580795,pygodus anserinus
+2.75,Persnäs,AK 94b,0.88,-6.23,-2.75,458.7345695,pygodus anserinus
+3,Persnäs,TK 94,1.03,-6.29,-3,458.8110596,pygodus anserinus
+3.25,Persnäs,AK 93b,0.96,-6.51,-3.25,458.8875497,pygodus anserinus
+3.5,Persnäs,TK 93,1.02,-6.59,-3.5,458.9640397,pygodus anserinus
+3.75,Persnäs,AK 92b,1.11,-6.48,-3.75,459.0405298,pygodus anserinus
+4,Persnäs,TK 92,0.96,-6.53,-4,459.1170199,pygodus anserinus
+4.25,Persnäs,AK 91b,0.88,-7.22,-4.25,459.1935099,pygodus anserinus
+4.5,Persnäs,TK 91,1.05,-6.09,-4.5,459.27,Pygodus serra
+4.75,Persnäs,AK 90b,1.12,-6.53,-4.75,459.3464901,Pygodus serra
+5,Persnäs,TK 90,0.96,-5.99,-5,459.4229801,Pygodus serra
+5.25,Persnäs,AK 89b,1.07,-6.89,-5.25,459.4994702,Pygodus serra
+5.5,Persnäs,TK 89,1.06,-6.62,-5.5,459.5759603,Pygodus serra
+5.75,Persnäs,AK 88b,1.06,-6.41,-5.75,459.6524503,Pygodus serra
+6,Källa,TK 88,1.09,-6.03,-6,459.7289404,Pygodus serra
+6.25,Källa,AK 87b,1.1,-6.65,-6.25,459.8054305,Pygodus serra
+6.5,Källa,TK 87,1.01,-6.57,-6.5,459.8819205,Pygodus serra
+6.75,Källa,AK 86b,0.93,-6.6,-6.75,459.9584106,Pygodus serra
+7,Källa,TK 86,0.85,-6.44,-7,460.0349007,Pygodus serra
+7.25,Källa,AK 85b,0.98,-6.87,-7.25,460.1113907,Pygodus serra
+7.5,Källa,TK 85,1.12,-5.29,-7.5,460.1878808,Pygodus serra
+7.75,Källa,AK 84b,1.14,-6.35,-7.75,460.2643709,Pygodus serra
+8,Källa,TK 84,1.16,-5.84,-8,460.3408609,Pygodus serra
+8.25,Källa,AK 83b,1.1,-6.08,-8.25,460.417351,Pygodus serra
+8.5,Källa,TK 83,1.03,-6.28,-8.5,460.4938411,Pygodus serra
+8.75,Källa,AK 82b,1.09,-6.4,-8.75,460.5703311,Pygodus serra
+9,Folkeslunda,TK 82,1.09,-6.33,-9,460.6468212,Pygodus serra
+9.25,Folkeslunda,AK 81b,1.18,-6.46,-9.25,460.7233113,Pygodus serra
+9.5,Folkeslunda,TK 81,1.03,-6.92,-9.5,460.7998013,Pygodus serra
+9.75,Folkeslunda,AK 80b,1.23,-6.73,-9.75,460.8762914,Pygodus serra
+10,Folkeslunda,TK 80,0.99,-7.78,-10,460.9527815,Pygodus serra
+10.25,Folkeslunda,AK 79b,1.34,-6.73,-10.25,461.0292715,Pygodus serra
+10.5,Folkeslunda,TK 79,1.3,-6.11,-10.5,461.1057616,Pygodus serra
+10.75,Folkeslunda,AK 78b,1.37,-6.58,-10.75,461.1822517,Pygodus serra
+11,Folkeslunda,TK 78,1.28,-6.12,-11,461.2587417,Pygodus serra
+11.25,Folkeslunda,AK 77b,1.49,-5.99,-11.25,461.3352318,Pygodus serra
+11.5,Folkeslunda,TK 77,1.17,-6.14,-11.5,461.4117219,Pygodus serra
+11.75,Folkeslunda,AK 76b,1.55,-6.07,-11.75,461.4882119,Pygodus serra
+12,Seby,TK 76,1.57,-6.01,-12,461.564702,Pygodus serra
+12.25,Seby,AK 75b,1.63,-5.93,-12.25,461.6864567,Eoplacognathus suecicus
+12.5,Skärlöv,TK 75,1.64,-5.45,-12.5,461.8195276,Eoplacognathus suecicus
+12.75,Skärlöv,AK 74b,1.6,-5.89,-12.75,461.9525984,Eoplacognathus suecicus
+13,Skärlöv,TK 74,1.6,-4.98,-13,462.0856693,Eoplacognathus suecicus
+13.25,Skärlöv,AK 73b,1.51,-5.55,-13.25,462.2187402,Eoplacognathus suecicus
+13.5,Skärlöv,TK 73,1.57,-4.77,-13.5,462.351811,Eoplacognathus suecicus
+13.75,Skärlöv,AK 72b,1.78,-5.32,-13.75,462.4848819,Eoplacognathus suecicus
+14,Skärlöv,TK 72,1.57,-5.27,-14,462.6179528,Eoplacognathus suecicus
+14.25,Skärlöv,AK 71b,1.67,-5.62,-14.25,462.7510236,Eoplacognathus suecicus
+14.5,Skärlöv,TK 71,1.69,-5.57,-14.5,462.8840945,Eoplacognathus suecicus
+14.75,Skärlöv,AK 70b,1.69,-5.73,-14.75,463.0171654,Eoplacognathus suecicus
+15,Skärlöv,TK 70,1.83,-5.52,-15,463.1502362,Eoplacognathus suecicus
+15.25,Skärlöv,AK 69b,1.68,-5.66,-15.25,463.2833071,Eoplacognathus suecicus
+15.5,Skärlöv,TK 69,1.95,-5.35,-15.5,463.416378,Eoplacognathus suecicus
+15.75,Segerstad,AK 68b,1.78,-5.87,-15.75,463.5494488,Eoplacognathus suecicus
+16,Segerstad,TK 68,1.84,-5.04,-16,463.6825197,Eoplacognathus suecicus
+16.25,Segerstad,AK 67b,1.72,-4.68,-16.25,463.8155906,Eoplacognathus suecicus
+16.5,Segerstad,TK 67,1.68,-5.66,-16.5,463.9486614,Eoplacognathus suecicus
+16.75,Segerstad,AK 66b,1.57,-6.06,-16.75,464.0817323,Eoplacognathus suecicus
+17,Segerstad,TK 66,1.74,-5.23,-17,464.2148031,Eoplacognathus suecicus
+17.25,Segerstad,AK 65b,1.71,-5.37,-17.25,464.347874,Eoplacognathus suecicus
+17.5,Segerstad,TK 65,1.56,-4.9,-17.5,464.4809449,Eoplacognathus suecicus
+17.75,Segerstad,AK 64b,1.59,-5.83,-17.75,464.6140157,Eoplacognathus suecicus
+18,Segerstad,TK 64,1.65,-5.58,-18,464.7470866,Eoplacognathus suecicus
+18.25,Segerstad,AK 63b,1.47,-5.84,-18.25,464.8801575,Eoplacognathus suecicus
+18.5,Segerstad,TK 63,1.13,-7.76,-18.5,464.9830233,Eoplacognathus pseudoplanus
+18.75,Segerstad,AK 62b,1.49,-6.35,-18.75,465.0405814,Eoplacognathus pseudoplanus
+19,Segerstad,TK 62,1.23,-5.25,-19,465.0981395,Eoplacognathus pseudoplanus
+19.25,Segerstad,AK 61b,1.28,-4.92,-19.25,465.1556977,Eoplacognathus pseudoplanus
+19.5,Segerstad,TK 61,1.11,-5.17,-19.5,465.2132558,Eoplacognathus pseudoplanus
+19.75,Segerstad,AK 60b,1.03,-5.86,-19.75,465.270814,Eoplacognathus pseudoplanus
+20,Segerstad,TK 60,1.01,-5.74,-20,465.3283721,Eoplacognathus pseudoplanus
+20.1,Segerstad,AK 59e,1.16,-6.19,-20.1,465.3513953,Eoplacognathus pseudoplanus
+20.2,Segerstad,AK 59d,1.05,-6.27,-20.2,465.3744186,Eoplacognathus pseudoplanus
+20.3,Segerstad,AK 59c,1.06,-5.6,-20.3,465.3974419,Eoplacognathus pseudoplanus
+20.4,Segerstad,AK 59b,1.03,-5.8,-20.4,465.4204651,Eoplacognathus pseudoplanus
+20.5,Segerstad,TK 59,1.22,-5.31,-20.5,465.4434884,Eoplacognathus pseudoplanus
+20.6,Segerstad,AK 58e,1.15,-5.9,-20.6,465.4665116,Eoplacognathus pseudoplanus
+20.7,Segerstad,AK 58d,1.14,-5.48,-20.7,465.4895349,Eoplacognathus pseudoplanus
+20.8,Segerstad,AK 58c,1.19,-5.72,-20.8,465.5125581,Eoplacognathus pseudoplanus
+20.9,Segerstad,AK 58b,1.21,-6.25,-20.9,465.5355814,Eoplacognathus pseudoplanus
+21,Segerstad,TK 58,1.15,-5.75,-21,465.5586047,Eoplacognathus pseudoplanus
+21.1,Segerstad,AK 57e,1.29,-5.58,-21.1,465.5816279,Eoplacognathus pseudoplanus
+21.2,Segerstad,AK 57d,1.29,-6.25,-21.2,465.6046512,Eoplacognathus pseudoplanus
+21.3,Segerstad,AK 57c,1.18,-5.72,-21.3,465.6276744,Eoplacognathus pseudoplanus
+21.4,Segerstad,AK 57b,1.16,-5.28,-21.4,465.6506977,Eoplacognathus pseudoplanus
+21.5,Segerstad,TK 57,1.43,-5.31,-21.5,465.6737209,Eoplacognathus pseudoplanus
+21.6,Segerstad,AK 56e,1.2,-5.5,-21.6,465.6967442,Eoplacognathus pseudoplanus
+21.7,Segerstad,AK 56d,1.3,-5.08,-21.7,465.7197674,Eoplacognathus pseudoplanus
+21.8,Segerstad,AK 56c,1.32,-4.99,-21.8,465.7427907,Eoplacognathus pseudoplanus
+21.9,Segerstad,AK 56b,1.29,-5.66,-21.9,465.765814,Eoplacognathus pseudoplanus
+22,Formation C+D,TK56 ,1.11,-5.37,-22,465.7888372,Eoplacognathus pseudoplanus
+22.1,Formation C+D,AK 55e,1.17,-5.41,-22.1,465.8118605,Eoplacognathus pseudoplanus
+22.2,Formation C+D,AK 55d,1.16,-5.3,-22.2,465.8348837,Eoplacognathus pseudoplanus
+22.3,Formation C+D,AK 55c,1.05,-5.17,-22.3,465.857907,Eoplacognathus pseudoplanus
+22.4,Formation C+D,AK 55b,0.87,-5.93,-22.4,465.8809302,Eoplacognathus pseudoplanus
+22.5,Formation C+D ,TK 55,0.86,-6.54,-22.5,465.9039535,Eoplacognathus pseudoplanus
+22.6,Formation C+D,AK 54e,0.83,-6.23,-22.6,465.9269767,Eoplacognathus pseudoplanus
+22.7,Formation C+D,AK 54d,0.81,-5.43,-22.7,465.95,Eoplacognathus pseudoplanus
+22.8,Formation C+D,AK 54c,0.8,-6.97,-22.8,465.9730233,Eoplacognathus pseudoplanus
+22.9,Formation C+D,AK 54b,0.86,-5.24,-22.9,465.9960465,Eoplacognathus pseudoplanus
+23,Formation C+D,TK54 ,0.81,-5.48,-23,466.0190698,Eoplacognathus pseudoplanus
+23.1,Formation C+D,AK 53e,0.68,-6.24,-23.1,466.042093,Eoplacognathus pseudoplanus
+23.2,Formation C+D,AK 53d,0.72,-6.61,-23.2,466.0651163,Eoplacognathus pseudoplanus
+23.3,Formation C+D,AK 53c,0.69,-6.53,-23.3,466.0881395,Eoplacognathus pseudoplanus
+23.4,Formation C+D,AK 53b,0.72,-5.46,-23.4,466.1111628,Eoplacognathus pseudoplanus
+23.5,Formation C+D,TK53 ,0.67,-6.16,-23.5,466.134186,Eoplacognathus pseudoplanus
+23.6,Formation C+D,AK 52e,0.65,-5.59,-23.6,466.1572093,Eoplacognathus pseudoplanus
+23.7,Formation C+D,AK 52d,0.76,-5.44,-23.7,466.1802326,Eoplacognathus pseudoplanus
+23.8,Formation C+D,AK 52c,0.74,-5.53,-23.8,466.2032558,Eoplacognathus pseudoplanus
+23.9,Formation C+D,AK 52b,0.68,-5.23,-23.9,466.2262791,Eoplacognathus pseudoplanus
+24,Formation C+D,TK52 ,0.57,-5.77,-24,466.2493023,Eoplacognathus pseudoplanus
+24.1,Formation C+D,AK 51e,0.73,-5.7,-24.1,466.2723256,Eoplacognathus pseudoplanus
+24.2,Formation C+D,AK 51d,0.47,-6.56,-24.2,466.2953488,Eoplacognathus pseudoplanus
+24.3,Formation C+D,AK 51c,0.59,-5.5,-24.3,466.3183721,Eoplacognathus pseudoplanus
+24.4,Formation C+D,AK 51b,0.56,-6.45,-24.4,466.3413953,Eoplacognathus pseudoplanus
+24.5,Formation C+D,TK51 ,0.62,-5.2,-24.5,466.3644186,Eoplacognathus pseudoplanus
+24.6,Formation C+D,AK 50e,0.47,-6.82,-24.6,466.3874419,Eoplacognathus pseudoplanus
+24.7,Formation C+D,AK 50d,0.55,-5.72,-24.7,466.4104651,Eoplacognathus pseudoplanus
+24.8,Formation C+D,AK 50c,0.44,-5.49,-24.8,466.4334884,Eoplacognathus pseudoplanus
+24.9,Formation C+D,AK 50b,0.61,-5.64,-24.9,466.4565116,Eoplacognathus pseudoplanus
+25,Formation C+D,TK50 ,0.63,-6.38,-25,466.4795349,Eoplacognathus pseudoplanus
+25.1,Formation C+D,AK 49e,0.69,-5.2,-25.1,466.5025581,Eoplacognathus pseudoplanus
+25.2,Formation C+D,AK 49d,0.59,-5.47,-25.2,466.5255814,Eoplacognathus pseudoplanus
+25.3,Formation C+D,AK 49c,0.63,-5.71,-25.3,466.5486047,Eoplacognathus pseudoplanus
+25.4,Formation C+D,AK 49b,0.47,-5.73,-25.4,466.5716279,Eoplacognathus pseudoplanus
+25.5,Formation C+D,TK49 ,0.49,-6.38,-25.5,466.5946512,Eoplacognathus pseudoplanus
+25.6,Formation C+D,AK 48e,0.56,-5.4,-25.6,466.6176744,Eoplacognathus pseudoplanus
+25.7,Formation C+D,AK 48d,0.46,-6.47,-25.7,466.6406977,Eoplacognathus pseudoplanus
+25.8,Formation C+D,AK 48c,0.46,-5.6,-25.8,466.6637209,Eoplacognathus pseudoplanus
+25.9,Formation C+D,AK 48b,0.51,-5.84,-25.9,466.6867442,Eoplacognathus pseudoplanus
+26,Formation C+D,TK48 ,0.68,-5.3,-26,466.7097674,Eoplacognathus pseudoplanus
+26.1,Formation C+D,AK 47e,0.53,-5.73,-26.1,466.7327907,Eoplacognathus pseudoplanus
+26.2,Formation C+D,AK 47d,0.45,-6.55,-26.2,466.755814,Eoplacognathus pseudoplanus
+26.3,Formation C+D,AK 47c,0.46,-5.96,-26.3,466.7788372,Eoplacognathus pseudoplanus
+26.4,Formation C+D,AK 47b,0.6,-5.41,-26.4,466.8018605,Eoplacognathus pseudoplanus
+26.5,Formation C+D,TK47 ,0.47,-5.2,-26.5,466.8248837,Eoplacognathus pseudoplanus
+26.6,Formation C+D,AK 46e,0.55,-6.58,-26.6,466.847907,Eoplacognathus pseudoplanus
+26.7,Formation C+D,AK 46d,0.47,-5.64,-26.7,466.8709302,Eoplacognathus pseudoplanus
+26.8,Formation C+D,AK 46c,0.46,-5.98,-26.8,466.8939535,Eoplacognathus pseudoplanus
+26.9,Formation C+D,AK 46b,0.6,-5.52,-26.9,466.9169767,Eoplacognathus pseudoplanus
+27,Formation C+D,TK46 ,0.27,-7.59,-27,466.94,Yangtzeplacognathus crassus
+27.1,Formation C+D,AK 45e,0.47,-5.94,-27.1,467.0605556,Yangtzeplacognathus crassus
+27.2,Formation C+D,AK 45d,0.29,-6.8,-27.2,467.1811111,Yangtzeplacognathus crassus
+27.3,Formation C+D,AK 45c,0.35,-6.2,-27.3,467.3016667,Yangtzeplacognathus crassus
+27.4,Formation C+D,AK 45b,0.29,-6.26,-27.4,467.4222222,Yangtzeplacognathus crassus
+27.5,Formation C+D,TK45 ,0.33,-6.23,-27.5,467.5427778,Yangtzeplacognathus crassus
+27.6,Formation C+D,AK 44e,0.42,-6.1,-27.6,467.6633333,Yangtzeplacognathus crassus
+27.7,Formation C+D,AK 44d,0.3,-6.04,-27.7,467.7838889,Yangtzeplacognathus crassus
+27.8,Formation C+D,AK 44c,0.32,-6.46,-27.8,467.9044444,Yangtzeplacognathus crassus
+27.9,Formation C+D,AK 44b,0.38,-6.91,-27.9,468.025,Yangtzeplacognathus crassus
+28,Formation C+D,TK44 ,0.26,-5.64,-28,468.1455556,Yangtzeplacognathus crassus
+28.1,Formation C+D,AK 43e,0.31,-5.51,-28.1,468.2661111,Yangtzeplacognathus crassus
+28.2,Formation C+D,AK 43d,0.39,-6.69,-28.2,468.3866667,Yangtzeplacognathus crassus
+28.3,Formation C+D,AK 43c,0.29,-6.28,-28.3,468.5072222,Yangtzeplacognathus crassus
+28.4,Gillberga Fm ∗,AK 43b,0.23,-6.14,-28.4,468.6277778,Yangtzeplacognathus crassus
+28.5,Gillberga Fm ∗,TK 43,0.38,-5.39,-28.5,468.7483333,Yangtzeplacognathus crassus
+28.6,Gillberga Fm ∗,AK 42e,0.41,-6.02,-28.6,468.8688889,Yangtzeplacognathus crassus
+28.7,Gillberga Fm ∗,AK 42d,0.44,-7.35,-28.7,468.9894444,Yangtzeplacognathus crassus
+28.8,Gillberga Fm ∗,AK 42c,0.52,-6.05,-28.8,469.11,Lenodus variabilis
+28.9,Gillberga Fm ∗,AK 42b,0.64,-6.07,-28.9,469.1174074,Lenodus variabilis
+29,Gillberga Fm ∗,TK 42,0.07,-6.5,-29,469.1248148,Lenodus variabilis
+29.1,Gillberga Fm ∗,AK 41e,0.26,-5.92,-29.1,469.1322222,Lenodus variabilis
+29.2,Gillberga Fm ∗,AK 41d,0.37,-6.5,-29.2,469.1396296,Lenodus variabilis
+29.3,Gillberga Fm ∗,AK 41c,0.34,-6.15,-29.3,469.147037,Lenodus variabilis
+29.4,Gillberga Fm ∗,AK 41b,0.3,-5.2,-29.4,469.1544444,Lenodus variabilis
+29.5,Gillberga Fm ∗,TK 41,0.45,-5.26,-29.5,469.1618519,Lenodus variabilis
+29.6,Gillberga Fm ∗,AK 40e,0.41,-5.75,-29.6,469.1692593,Lenodus variabilis
+29.7,Gillberga Fm ∗,AK 40d,0.32,-6.68,-29.7,469.1766667,Lenodus variabilis
+29.8,Gillberga Fm ∗,AK 40c,0.32,-5.98,-29.8,469.1840741,Lenodus variabilis
+29.9,Gillberga Fm ∗,AK 40b,0.34,-6.29,-29.9,469.1914815,Lenodus variabilis
+30,Gillberga Fm ∗,TK 40,0.29,-6.11,-30,469.1988889,Lenodus variabilis
+30.1,Gillberga Fm ∗,AK 39e,0.28,-6.04,-30.1,469.2062963,Lenodus variabilis
+30.2,Gillberga Fm ∗,AK 39d,0.15,-6.23,-30.2,469.2137037,Lenodus variabilis
+30.3,Gillberga Fm ∗,AK 39c,0.14,-6.39,-30.3,469.2211111,Lenodus variabilis
+30.4,Gillberga Fm ∗,AK 39b,0.21,-6.3,-30.4,469.2285185,Lenodus variabilis
+30.5,Gillberga Fm ∗,TK 39,0.29,-5.28,-30.5,469.2359259,Lenodus variabilis
+30.6,Gillberga Fm ∗,AK 38e,0.22,-6.17,-30.6,469.2433333,Lenodus variabilis
+30.7,Gillberga Fm ∗,AK 38d,0.32,-5.17,-30.7,469.2507407,Lenodus variabilis
+30.8,Gillberga Fm ∗,AK 38c,0.35,-5.93,-30.8,469.2581481,Lenodus variabilis
+30.9,Gillberga Fm ∗,AK 38b,0.38,-5.89,-30.9,469.2655556,Lenodus variabilis
+31,Gillberga Fm ∗,TK 38,0.39,-5.62,-31,469.272963,Lenodus variabilis
+31.1,Gillberga Fm ∗,AK 37e,0.3,-5.82,-31.1,469.2803704,Lenodus variabilis
+31.2,Gillberga Fm ∗,AK 37d,0.08,-6.82,-31.2,469.2877778,Lenodus variabilis
+31.3,Gillberga Fm ∗,AK 37c,0.31,-6.28,-31.3,469.2951852,Lenodus variabilis
+31.4,Gillberga Fm ∗,AK 37b,0.35,-5.59,-31.4,469.3025926,Lenodus variabilis
+31.5,Gillberga Fm ∗,TK 37,0.2,-6.63,-31.5,469.31,Lenodus antivariabilis
+31.6,Gillberga Fm ∗,AK 36e,0.23,-6.22,-31.6,469.3131884,Lenodus antivariabilis
+31.7,Gillberga Fm ∗,AK 36d,0.34,-5.79,-31.7,469.3163768,Lenodus antivariabilis
+31.8,Gillberga Fm ∗,AK 36c,0.18,-6.68,-31.8,469.3195652,Lenodus antivariabilis
+31.9,Gillberga Fm ∗,AK 36b,0.41,-6.23,-31.9,469.3227536,Lenodus antivariabilis
+32,Gillberga Fm ∗,TK 36,0.44,-6.1,-32,469.325942,Lenodus antivariabilis
+32.1,Gillberga Fm ∗,AK 35e,0.42,-6.04,-32.1,469.3291304,Lenodus antivariabilis
+32.2,Gillberga Fm ∗,AK 35d,0.4,-5.86,-32.2,469.3323188,Lenodus antivariabilis
+32.3,Gillberga Fm ∗,AK 35c,0.36,-6.67,-32.3,469.3355072,Lenodus antivariabilis
+32.4,Gillberga Fm ∗,AK 35b,0.56,-6.01,-32.4,469.3386957,Lenodus antivariabilis
+32.5,Gillberga Fm ∗,TK 35,0.3,-6.39,-32.5,469.3418841,Lenodus antivariabilis
+32.6,Gillberga Fm ∗,AK 34e,0.17,-8.46,-32.6,469.3450725,Lenodus antivariabilis
+32.7,Gillberga Fm ∗,AK 34d,0.53,-6.05,-32.7,469.3482609,Lenodus antivariabilis
+32.8,Gillberga Fm ∗,AK 34c,0.33,-7.16,-32.8,469.3514493,Lenodus antivariabilis
+32.9,Gillberga Fm ∗,AK 34b,0.48,-5.7,-32.9,469.3546377,Lenodus antivariabilis
+33,Gillberga Fm ∗,TK 34,0.42,-6.23,-33,469.3578261,Lenodus antivariabilis
+33.1,Gillberga Fm ∗,AK 33e,0.29,-6.97,-33.1,469.3610145,Lenodus antivariabilis
+33.2,Gillberga Fm ∗,AK 33d,0.19,-6.92,-33.2,469.3642029,Lenodus antivariabilis
+33.3,Gillberga Fm ∗,AK 33c,0.42,-5.87,-33.3,469.3673913,Lenodus antivariabilis
+33.4,Gillberga Fm ∗,AK 33b,0.32,-5.96,-33.4,469.3705797,Lenodus antivariabilis
+33.5,Gillberga Fm ∗,TK 33,0.21,-7.25,-33.5,469.3737681,Lenodus antivariabilis
+33.6,Gillberga Fm ∗,AK 32e,0.29,-6.97,-33.6,469.3769565,Lenodus antivariabilis
+33.7,Gillberga Fm ∗,AK 32d,0.45,-6.49,-33.7,469.3801449,Lenodus antivariabilis
+33.8,Gillberga Fm ∗,AK 32c,0.5,-6.31,-33.8,469.3833333,Lenodus antivariabilis
+33.9,Gillberga Fm ∗,AK 32b,0.41,-6.79,-33.9,469.3865217,Lenodus antivariabilis
+34,Gillberga Fm ∗,TK 32,0.26,-7.08,-34,469.3897101,Lenodus antivariabilis
+34.1,Gillberga Fm ∗,AK 31e,0.39,-6.96,-34.1,469.3928986,Lenodus antivariabilis
+34.2,Gillberga Fm ∗,AK 31d,0.4,-6.66,-34.2,469.396087,Lenodus antivariabilis
+34.3,Gillberga Fm ∗,AK 31c,0.44,-5.93,-34.3,469.3992754,Lenodus antivariabilis
+34.4,Gillberga Fm ∗,AK 31b,0.36,-6.27,-34.4,469.4024638,Lenodus antivariabilis
+34.5,Gillberga Fm ∗,TK 31,0.27,-6.29,-34.5,469.4056522,Lenodus antivariabilis
+34.6,Gillberga Fm ∗,AK 30e,0.31,-7.54,-34.6,469.4088406,Lenodus antivariabilis
+34.7,Gillberga Fm ∗,AK 30d,0.34,-6.12,-34.7,469.412029,Lenodus antivariabilis
+34.8,Gillberga Fm ∗,AK 30c,0.27,-6.62,-34.8,469.4152174,Lenodus antivariabilis
+34.9,Gillberga Fm ∗,AK 30b,0.37,-6.34,-34.9,469.4184058,Lenodus antivariabilis
+35,Gillberga Fm ∗,TK 30,0.37,-6.06,-35,469.4383544,Baltoniodus navis
+35.1,Horns Udde,AK 29e,0.38,-6.08,-35.1,469.4750633,Baltoniodus navis
+35.2,Horns Udde,AK 29d,0.31,-6.61,-35.2,469.5117722,Baltoniodus navis
+35.3,Horns Udde,AK 29c,0.24,-7.19,-35.3,469.548481,Baltoniodus navis
+35.4,Horns Udde,AK 29b,0.3,-5.86,-35.4,469.5851899,Baltoniodus navis
+35.5,Horns Udde,TK 29,0.24,-7.1,-35.5,469.6218987,Baltoniodus navis
+35.6,Horns Udde,AK 28e,0.29,-6.54,-35.6,469.6586076,Baltoniodus navis
+35.7,Horns Udde,AK 28d,0.3,-7.36,-35.7,469.6953165,Baltoniodus navis
+35.8,Horns Udde,AK 28c,0.38,-7.13,-35.8,469.7320253,Baltoniodus navis
+35.9,Horns Udde,AK 28b,0.34,-6.15,-35.9,469.7687342,Baltoniodus navis
+36,Horns Udde,TK 28,0.26,-7.59,-36,469.805443,Baltoniodus navis
+36.1,Horns Udde,AK 27e,0.29,-6.91,-36.1,469.8421519,Baltoniodus navis
+36.2,Horns Udde,AK 27d,0.19,-7.21,-36.2,469.8788608,Baltoniodus navis
+36.3,Horns Udde,AK 27c,0.4,-6.06,-36.3,469.9155696,Baltoniodus navis
+36.4,Horns Udde,AK 27b,0.63,-5.85,-36.4,469.9522785,Baltoniodus navis
+36.5,Horns Udde,TK 27,0.32,-5.92,-36.5,469.9889873,Baltoniodus navis
+36.6,Horns Udde,AK 26e,0.39,-8.19,-36.6,470.0256962,Baltoniodus navis
+36.7,Horns Udde,AK 26d,0.51,-5.37,-36.7,470.0624051,Baltoniodus navis
+36.8,Horns Udde,AK 26c,0.57,-5.43,-36.8,470.0991139,Baltoniodus navis
+36.9,Horns Udde,AK 26b,0.63,-5.61,-36.9,470.1358228,Baltoniodus navis
+37,Horns Udde,TK 26,0.54,-5.45,-37,470.1725316,Baltoniodus navis
+37.1,Horns Udde,AK 25e,0.6,-5.42,-37.1,470.2092405,Baltoniodus navis
+37.2,Horns Udde,AK 25d,0.49,-6.45,-37.2,470.2459494,Baltoniodus navis
+37.3,Horns Udde,AK 25c,0.53,-5.4,-37.3,470.2826582,Baltoniodus navis
+37.4,Horns Udde,AK 25b,0.58,-5.53,-37.4,470.3193671,Baltoniodus navis
+37.5,Horns Udde,TK 25,0.52,-5.79,-37.5,470.3560759,Baltoniodus navis
+37.6,Horns Udde,AK 24e,0.52,-5.71,-37.6,470.3927848,Baltoniodus navis
+37.7,Horns Udde,AK 24d,0.45,-6.71,-37.7,470.4294937,Baltoniodus navis
+37.8,Horns Udde,AK 24c,0.62,-5.63,-37.8,470.4662025,Baltoniodus navis
+37.9,Horns Udde,AK 24b,0.69,-5.64,-37.9,470.5029114,Baltoniodus navis
+38,Bruddesta,TK 24,0.65,-5.65,-38,470.5396203,Baltoniodus navis
+38.1,Bruddesta,AK 23e,0.5,-5.93,-38.1,470.5763291,Baltoniodus navis
+38.2,Bruddesta,AK 23d,0.32,-5.93,-38.2,470.613038,Baltoniodus navis
+38.3,Bruddesta,AK 23c,0.57,-5.45,-38.3,470.6497468,Baltoniodus navis
+38.4,Bruddesta,AK 23b,0.5,-5.56,-38.4,470.6864557,Baltoniodus navis
+38.5,Bruddesta,TK 23,0.45,-5.88,-38.5,470.7231646,Baltoniodus navis
+38.6,Bruddesta,AK 22e,0.62,-5.7,-38.6,470.7598734,Baltoniodus navis
+38.7,Bruddesta,AK 22d,0.38,-5.96,-38.7,470.7965823,Baltoniodus navis
+38.8,Bruddesta,AK 22c,0.45,-5.73,-38.8,470.8332911,Baltoniodus navis
+38.9,Bruddesta,AK 22b,0.31,-5.88,-38.9,470.87,Baltoniodus triangularis
+39,Bruddesta,TK 22,0.35,-5.82,-39,470.8874107,Baltoniodus triangularis
+39.1,Bruddesta,AK 21e,0.13,-6.33,-39.1,470.9048214,Baltoniodus triangularis
+39.2,Bruddesta,AK 21d,0.47,-5.71,-39.2,470.9222321,Baltoniodus triangularis
+39.3,Bruddesta,AK 21c,0.44,-6.13,-39.3,470.9396429,Baltoniodus triangularis
+39.4,Bruddesta,AK 21b,0.37,-5.81,-39.4,470.9570536,Baltoniodus triangularis
+39.5,Bruddesta,TK 21,0.27,-5.82,-39.5,470.9744643,Baltoniodus triangularis
+39.6,Bruddesta,AK 20e,0.25,-6.48,-39.6,470.991875,Baltoniodus triangularis
+39.7,Bruddesta,AK 20d,0.29,-6.21,-39.7,471.0092857,Baltoniodus triangularis
+39.8,Bruddesta,AK 20c,0.23,-6.3,-39.8,471.0266964,Baltoniodus triangularis
+39.9,Bruddesta,AK 20b,0.46,-6.1,-39.9,471.0441071,Baltoniodus triangularis
+40,Bruddesta,TK 20,0.49,-5.7,-40,471.0615179,Baltoniodus triangularis
+40.1,Bruddesta,AK 19e,0.37,-6.37,-40.1,471.0789286,Baltoniodus triangularis
+40.2,Bruddesta,AK 19d,0.32,-6.18,-40.2,471.0963393,Baltoniodus triangularis
+40.3,Bruddesta,AK 19c,0.38,-6.44,-40.3,471.11375,Baltoniodus triangularis
+40.4,Bruddesta,AK 19b,0.45,-6.04,-40.4,471.1311607,Baltoniodus triangularis
+40.5,Bruddesta,TK 19,0.51,-5.91,-40.5,471.1485714,Baltoniodus triangularis
+40.6,Bruddesta,AK 18e,0.58,-6.18,-40.6,471.1659821,Baltoniodus triangularis
+40.7,Bruddesta,AK 18d,0.44,-6.07,-40.7,471.1833929,Baltoniodus triangularis
+40.8,Bruddesta,AK 18c,0.57,-6.23,-40.8,471.2008036,Baltoniodus triangularis
+40.9,Bruddesta,AK 18b,0.24,-7.14,-40.9,471.2182143,Baltoniodus triangularis
+41,Bruddesta,TK 18,0.67,-5.98,-41,471.235625,Baltoniodus triangularis
+41.1,Bruddesta,AK 17e,0.48,-6.1,-41.1,471.2530357,Baltoniodus triangularis
+41.2,Bruddesta,AK 17d,0.31,-6.12,-41.2,471.324,Oepikodus evae
+41.3,Bruddesta,AK 17c,0.26,-6.28,-41.3,471.4306667,Oepikodus evae
+41.4,Bruddesta,AK 17b,0.53,-6.06,-41.4,471.5373333,Oepikodus evae
+41.5,Bruddesta,TK 17,0.16,-6.33,-41.5,471.644,Oepikodus evae
+41.6,Bruddesta,AK 16e,0.33,-6.46,-41.6,471.7506667,Oepikodus evae
+41.7,Bruddesta,AK 16d,0.33,-6.24,-41.7,471.8573333,Oepikodus evae
+41.8,Bruddesta,AK 16c,0.33,-5.95,-41.8,471.964,Oepikodus evae
+41.9,Bruddesta,AK 16b,0.23,-5.89,-41.9,472.0706667,Oepikodus evae
+42,Bruddesta,TK 16,-0.04,-6,-42,472.1773333,Oepikodus evae
+42.1,Bruddesta,TK 15,0.12,-6.03,-42.1,472.284,Oepikodus evae
+42.2,Bruddesta,TK 14,0.22,-6.29,-42.2,472.3906667,Oepikodus evae
+42.3,Bruddesta,TK 13,0.34,-5.55,-42.3,472.4973333,Oepikodus evae
+42.4,Bruddesta,TK 12,0.3,-5.94,-42.4,472.604,Oepikodus evae
+42.5,Bruddesta,TK 11,0.32,-5.87,-42.5,472.7106667,Oepikodus evae
+42.6,Bruddesta,TK 10,0.38,-5.81,-42.6,472.8173333,Oepikodus evae
+42.7,Bruddesta,TK 9,0.18,-6,-42.7,472.924,Oepikodus evae
+42.9,Köpingsklint,TK 7,0.04,-6.16,-42.9,473.1373333,Oepikodus evae
+43,Köpingsklint,TK 6,0.06,-6.09,-43,473.244,Oepikodus evae
+43.1,Köpingsklint,TK 5,0.24,-5.62,-43.1,473.3506667,Oepikodus evae
+43.2,Köpingsklint,TK 4,0.46,-6.02,-43.2,473.4573333,Oepikodus evae
+43.3,Köpingsklint,TK 3,0.81,-6.1,-43.3,473.564,
+43.4,Köpingsklint,TK 2,0.63,-6.23,-43.4,473.6706667,
